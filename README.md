@@ -1,4 +1,4 @@
-[![MasterHead](https://adigitalguru.com/wp-content/uploads/2019/11/banner-web-development.png)](https://manohar-1.github.io/)
+<img align="center" width="100%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif5WDqRAODYo5uh1R3oI_7C2jEKSErtg0rlseMvk_Cq7DIS3kqsTGyzfedt5-qJ31YFL4-hu2uSl-voiuflAC7Yq0V9BL1v42HMbcb06b_zViLdf_zkZ27oqAhQPN8fN1P8uzshPOsbLPThBCIrpnNdvle1NSQvoONq01OTgVcAiK9f_2rBU0EP4BK/w722-h241/Manohar%20Mudhapaka.jpg" />
 <h1 align="center">Hi 👋, This is Manohar Mudhapaka</h1>
 <h3 align="center">A passionate Backend Developer.</h3>
 <img align="right" alt="coding"  src="https://external-preview.redd.it/aAzNJiVqtuW6oGkeA8vkS2QzaMIfJsz1aWtZ065q0GY.jpg?format=pjpg&auto=webp&s=ca9b4919b16da4a0765c482bcc73ab0039952969" />
