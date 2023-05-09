@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **with any awesome projects**
 
-- 🤝 I’m looking for help with [Competitive Programming](https://mycode.prepbytes.com/)
+- 🤝 I love solving problems on [Hackerrank](https://www.hackerrank.com/mudhapakamanohar)
 
 - 👨‍💻 All of my projects are available at [https://manohar-1.github.io/](https://manohar-1.github.io/)
 
-- 📝 I regularly write articles on [minestie.blogspot.com](minestie.blogspot.com)
+- 📝 I regularly write articles on [minestie.blogspot.com](https://minestie.blogspot.com/)
 
 - 💬 Ask me about **anything**
 
