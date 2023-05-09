@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **with any awesome projects**
 
-- 🤝 I love solving problems on [Hackerrank](https://www.hackerrank.com/mudhapakamanohar?hr_r=1)
+
 
 - 👨‍💻 All of my projects are available at [https://manohar-1.github.io/](https://manohar-1.github.io/)
 
