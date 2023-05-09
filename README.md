@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **mudhapakamanohar@gmail.com**
-
 - ⚡ Fun fact **I'm the best in everything**
 
 <h3 align="left">Connect with me:</h3>
