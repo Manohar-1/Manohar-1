@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/manohar-mudhapaka-6bb22b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar-mudhapaka-6bb22b206" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20908690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20908690" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/mudhapakamanohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mudhapakamanohar" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/mudhapakamanohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudhapakamanohar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mudhapaka3dw6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mudhapaka3dw6" height="30" width="40" /></a>
 </p>
