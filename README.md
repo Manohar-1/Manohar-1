@@ -1,42 +1,96 @@
-<img align="center" width="100%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Ip_PkySo_AA0lj4c31RrB2NXviTBA-3Zvxw2ve5Ea7RAvHNqp1z3HfgCqwviqzHh-QQFAvm5fXJlMpNM_TSupicX6SyQPflr6gLUHjvoKhGlAPAiEAVFPGvzhSSsvYo7Z_NYW0qV4zy_KXbzZpm4bdDDcbpcEsrXrsPNCNmEOSLHay0-eb97Li-b/w742-h238/GitHubBanner.png" />
-<h1 align="center">Hi 👋, This is Manohar Mudhapaka</h1>
-<h3 align="center">A passionate Backend Developer.</h3>
-<img align="right" alt="coding"  src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar-1&label=Profile%20views&color=0e75b6&style=flat" alt="manohar-1" /> </p>
+<h1 align="center">Hi 👋, I'm Manohar Mudhapaka</h1>
+<h3 align="center">Experienced and disciplined web developer with strong technical skills, committed to creating accessible and user-friendly websites. Quick learner, clear communicator, and able to work independently. Over 1200+ hours of coding experience and solved 700+ DSA Problems.</h3>
 
-- 🔭 I’m currently pursuing **JAVA Backend Development**
-
-- 🌱 I’m currently learning **SpringBoot**
-
-- 👯 I’m looking to collaborate on **with any awesome projects**
+<img align="right" width="500px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
 
 
-
-- 👨‍💻 All of my projects are available at [https://manohar-1.github.io/](https://manohar-1.github.io/)
-
-- 📝 I regularly write articles on [minestie.blogspot.com](https://minestie.blogspot.com/)
-
-- 💬 Ask me about **anything**
-
-- ⚡ Fun fact **I'm the best in everything**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@manu_har" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@manu_har" height="30" width="40" /></a>
-<a href="https://twitter.com/@manohar9911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@manohar9911" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manohar-mudhapaka-6bb22b206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manohar-mudhapaka-6bb22b206" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20908690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20908690" height="30" width="40" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manohar-1&label=Profile%20views&color=0e75b6&style=flat" alt="manu8250" /> </p>
 
 
-<a href="https://www.leetcode.com/mudhapakamanohar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudhapakamanohar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mudhapaka3dw6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mudhapaka3dw6" height="30" width="40" /></a>
+- 💬 Ask me about **Full Stack Web-development** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 📫 How to reach me **mudhapakamanohar@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XqW2mxc9-fozirMbc6f25IAkx0pQVbc2/view?usp=drive_link)
+
+- ⚡ All Profiles find here **[Check it out]()** 
+
+
+## Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudhapakamanohar@gmail.com)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manohar-mudhapaka-6bb22b206/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manohar9911)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m_a_n_o_h_a_r_2702/)
+
+### Profiles 👨‍🎓
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/mudhapakamanohar)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mudhapakamanohar)
+
+
+
+## ⚡ Tech Stack
+
+### 🚀 Languages and Frameworks:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E)
+
+
+
+
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+
+
+
+### 🧩 Libraries and Tools:
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=#f26201)
+
+
+<!-- Trophies -->
+
+## Trophies 🏆
+<p align="center" >
+	<a href="https://github.com/Manohar-1">
+		<img src="https://github-profile-trophy.vercel.app/?username=Manohar-1&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="atanu8250" />
+	</a>
+</p> 
+
+<!-- Github Stats -->
+
+## Github Stats ✨
+
+<p align="center">
+	<a href="https://github.com/Manohar-1">
+		<img width="33%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar-1&layout=compact&hide_border=true&theme=radical" />
+	</a>
+	<a href="https://github.com/Manohar-1">
+		<img width="64%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manohar-1&theme=radical" alt="Manohar Github overview"/>
+	</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+	<a href="https://github.com/Manohar-1">
+  		<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Manohar-1&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Manohar-1" />
+	</a>
+	<a href="https://github.com/Manohar-1">
+		<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manohar-1&layout=compact&hide_border=true&theme=radical" alt="Manohar-1" />
+	</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar-1&show_icons=true&locale=en&layout=compact" alt="manohar-1" /></p>
+<!-- Footer image -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar-1&show_icons=true&locale=en" alt="manohar-1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar-1&" alt="manohar-1" /></p>
