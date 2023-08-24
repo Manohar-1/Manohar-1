@@ -14,7 +14,7 @@ knowledge. Looking for enhancing my skills as a Backend Developer.</h5>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sank29&label=Profile%20views&color=0e75b6&style=flat" alt="sank29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manohar-1&label=Profile%20views&color=0e75b6&style=flat" alt="sank29" /> </p>
 
 </a> </p>
 
