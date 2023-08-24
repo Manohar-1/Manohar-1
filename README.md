@@ -43,6 +43,18 @@ knowledge. Looking for enhancing my skills as a Backend Developer.</h5>
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="manohar" height="30"/></a>
     </p>
+
+ <p align="center">
+      <a href="https://leetcode.com/mudhapakamanohar" target="blank"><img align="center"
+         src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+         alt="manohar" height="30"/></a>
+      <a href="https://www.hackerrank.com/mudhapakamanohar" target="blank"><img align="center"
+         src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+         alt="manohar" height="30"/></a>
+    </p>
+
+
+    
   <p align="center">
       <a href="https://manohar-1.github.io/" target="blank"><img align="center"
          src="https://img.shields.io/badge/portfolio-%23E4405F.svg?style=for-the-badge&logo=Github&logoColor=white"
