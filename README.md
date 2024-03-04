@@ -6,11 +6,7 @@
 
 
 <h3 align="center"> What you do today define your tomorrow </h3>
-<h5 align="center">Aspiring Java Backend Developer. An individual who can write clean
-and optimize code. Like to solve Data Structure and Algorithms
-problems. I have made some solo and collaborative projects and
-continue to have some experience as well as acquiring more
-knowledge. Looking for enhancing my skills as a Backend Developer.</h5>
+<h4 align="center">Aspiring Java Backend Developer proficient in writing clean and optimized code, adept at solving Data Structure and Algorithms problems. Possesses experience in solo and collaborative project development, with a keen interest in further skill enhancement within the realm of Backend Development.</h4>
 
 
 
